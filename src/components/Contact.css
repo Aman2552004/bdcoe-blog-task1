@@ -1,0 +1,31 @@
+
+.footer {
+    background-color: #444; 
+    color: white;
+    text-align: center; 
+    padding: 20px; 
+    text-shadow: 2px,2px,5px rgb(173, 31, 31);
+
+}
+
+.footer-content {
+
+    max-width: 800px; 
+    margin: 0 auto; 
+}
+
+.social-links {
+    margin-top: 10px;
+}
+
+.social-links a {
+    color: #df84cb; 
+    margin: 0 10px; 
+    text-decoration: none; 
+    transition: color 0.3s; 
+}
+
+.social-links a:hover {
+    color: #ffcc00;
+    text-decoration: underline; 
+}
